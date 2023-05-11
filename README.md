@@ -11,4 +11,4 @@
 1. [ SMK Telkom Makassar ](https://smktelkom-mks.sch.id/) | RPL (Software engineering) | Makassar `2022-2024`
 
 ##### Achivement: [My Certificate]()
-( actually all my certificates all is my bootcamp 😎😎👌 )
+( actually all my certificates is my bootcamp 😎😎👌 )
