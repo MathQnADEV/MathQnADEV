@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Shaquille Rashaun Sahl Tamrin</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"> !-->
 <a href="https://app.daily.dev/mathqnadev"><img align="right" src="https://api.daily.dev/devcards/fefa807441b94be0bc719e46a1fb2071.png?r=rll" width="400" alt="MathQnA Dev's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathqnadev&label=Profile%20views&color=0e75b6&style=flat" alt="mathqnadev" /> </p>
