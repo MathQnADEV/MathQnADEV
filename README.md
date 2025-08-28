@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning **Next.JS, Python, etc**
 
-- 👨‍💻 All of my projects are available [shaq.blue/work](https://www.shaq.blue/work)
+- 👨‍💻 All of my projects are available [shaq.work/work](https://www.shaq.work/work)
 
 - 📫 How to reach me **mathqna.project@gmail.com** or **shaqy9center@gmail.com**
 
