@@ -4,7 +4,9 @@
 
 ##### Achivement: [My Certificate]()
 ( actually all my certificates is my bootcamp 😎😎👌 ) -->
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<div align=center>
+  <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gxbmM5anp4aGlyZmtlMjUxeXF4ZThkZWpvZDFndzV6dHRuYjhneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buh8WbaZLupolXi/giphy.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Shaquille Rashaun Sahl Tamrin</h1>
 <h3 align="center">Just A Newbie Backend From Indonesia</h3>
 
